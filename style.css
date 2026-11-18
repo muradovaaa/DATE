@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: sans-serif;
+    background-image: url('/white-grass-flowers-with-brown-wood.jpg');
+    background-size: 100%;
+    color: aliceblue;
+
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
